@@ -1,0 +1,7 @@
+{
+  "name": "xplore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
