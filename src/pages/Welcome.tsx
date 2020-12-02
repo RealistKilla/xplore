@@ -106,7 +106,7 @@ const Welcome: React.FC = () => {
                     <br />
                     <b>The Select Landmark Indicator</b> changes to the name of
                     the <b>Location Marker</b> you select and shows the distance
-                    from your current location. them to interact.
+                    from your current location.
                   </p>
                 </div>
                 <div className="intro-content">
@@ -149,28 +149,6 @@ const Welcome: React.FC = () => {
                     Continue <IonIcon slot="end" icon={arrowForward}></IonIcon>
                   </IonButton>
                 </Link>
-              </div>
-              <div>&nbsp;</div>
-              <div>&nbsp;</div>
-              <div className="rocket">
-                <img alt="rocket" src="/assets/img/rocket.png" />
-              </div>
-              <div className="smokes">
-                <img
-                  className="dark-smoke"
-                  alt="dark smoke"
-                  src="/assets/img/smoke-dark.png"
-                />
-                <img
-                  className="medium-smoke"
-                  alt="medium smoke"
-                  src="/assets/img/smoke-medium.png"
-                />
-                <img
-                  className="light-smoke"
-                  alt="light smoke"
-                  src="/assets/img/smoke-light.png"
-                />
               </div>
             </div>
           </IonSlide>
